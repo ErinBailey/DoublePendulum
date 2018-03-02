@@ -1,5 +1,5 @@
 # Coding Cool, Mathy Artwork
 ## github.com/Erin Bailey
 
-![Lemon](images/logos.png)
+![Lemon](images/lemon.jpg)
 ___
