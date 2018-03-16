@@ -1,3 +1,6 @@
+# Learn Day 03/02/2018
+## Code from the live demonstration on how to simulate a double pendulum! 
+
 - [Download Processing!](https://processing.org/download/)
 
 - Get the CLI installed from the GUI and run this command in the appropriate directory to make it run!
