@@ -10,3 +10,5 @@
 - Start coding cool, mathy artwork!
 
 - [Double Pendulum formulas!](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
+
+- [Coding Train tutorial for getting started with Processing](https://www.youtube.com/watch?v=5N31KNgOO0g)
